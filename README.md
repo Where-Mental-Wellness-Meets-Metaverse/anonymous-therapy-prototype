@@ -4,7 +4,8 @@
 ## Highlights
 - Integrated hypnosis pendulum animation (licensed asset)
 - Clear service structure (offerings)
-- Fiat and crypto payment flows
+- Payments: Credit/Debit, PayPal, Square, **Advanced Care (third-party healthcare financing)**, + Crypto
+
 
 ## Demo
 <p align="center">
