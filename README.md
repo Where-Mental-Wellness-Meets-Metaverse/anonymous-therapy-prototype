@@ -2,7 +2,7 @@
 <p align="center">Archived portfolio artifact: privacy-first services with Web3 payments. Site retired; assets preserved for review.</p>
 
 ## Highlights
-- Animated hypnosis pendulum (engagement)
+- Integrated hypnosis pendulum animation (licensed asset)
 - Clear service structure (offerings)
 - Fiat and crypto payment flows
 
@@ -22,7 +22,7 @@
 <p align="center"><img src="assets/06_payment_overview.png" width="900" alt="Payment overview"></p>
 
 ## Skills Demonstrated
-- **Web Design & UX:** Developed engaging hypnosis interface with custom animation.
+- **Web Design & UX:** Integrated licensed hypnosis animation into an engaging interface.
 - **Web3 Integration:** Implemented fiat and crypto payments (BitPay, Coinbase Commerce, NOWPayments).
 - **Architecture & Delivery:** Built end-to-end service structure and deployed as a live prototype.
 - **Portfolio Relevance:** Demonstrates ability to design, integrate, and retire production-ready features.
