@@ -20,3 +20,9 @@
 <p align="center"><img src="assets/03_payment_fiat.png" width="900" alt="Fiat payments"></p>
 <p align="center"><img src="assets/04_payment_crypto.png" width="900" alt="Crypto payments"></p>
 <p align="center"><img src="assets/06_payment_overview.png" width="900" alt="Payment overview"></p>
+
+## Skills Demonstrated
+- **Web Design & UX:** Developed engaging hypnosis interface with custom animation.
+- **Web3 Integration:** Implemented fiat and crypto payments (BitPay, Coinbase Commerce, NOWPayments).
+- **Architecture & Delivery:** Built end-to-end service structure and deployed as a live prototype.
+- **Portfolio Relevance:** Demonstrates ability to design, integrate, and retire production-ready features.
